@@ -101,4 +101,4 @@ You can run the following command to complete the operation. Install the npm pac
     npm-template help init
   ```
 ## Maintainers
-[@eliassama](https://github.com/eliassama/)
+[@CocytusElias](https://github.com/CocytusElias)
